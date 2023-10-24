@@ -1,8 +1,16 @@
 /*  your css code here. If applicable */
-ul {
-  list-style-type: none;
-  margin-right: 1rem;
-  padding: 10px;
-  background-color:#D3D3D3;
+.container{
 	display:inline;
+	background-color:#D3D3D3;
+	padding:10px;
+	
+}
+
+.container ul{
+	display: flex;
+}
+
+.container li{
+	margin-right:1rem;
+	list-style:none;
 }
