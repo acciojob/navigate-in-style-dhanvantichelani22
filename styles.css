@@ -1,8 +1,7 @@
 /*  your css code here. If applicable */
 ul {
-	background-color:#D3D3D3;
+  list-style-type: none;
   margin-right: 1rem;
-	display:inline;
   padding: 10px;
-	list-style-type: none;
+  background-color:#D3D3D3;
 }
